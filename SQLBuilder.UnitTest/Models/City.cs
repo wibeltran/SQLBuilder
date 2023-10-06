@@ -1,6 +1,7 @@
 ﻿using SQLBuilder.Attributes;
 using System.Data;
 
+
 namespace SQLBuilder.UnitTest
 {
     [Table("Base_City")]
